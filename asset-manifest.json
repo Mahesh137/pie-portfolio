@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/pie-portfolio/static/css/main.2e842186.css",
+    "main.js": "/pie-portfolio/static/js/main.0cbaaaea.js",
+    "static/js/787.deaa2700.chunk.js": "/pie-portfolio/static/js/787.deaa2700.chunk.js",
+    "static/media/color-sharp.png": "/pie-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/pie-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/pexels-pixabay-355465.jpg": "/pie-portfolio/static/media/pexels-pixabay-355465.5a5a3b4438cac5d45708.jpg",
+    "static/media/pesg.jpg": "/pie-portfolio/static/media/pesg.cc1e3bb23021cc3c0496.jpg",
+    "static/media/yoga.png": "/pie-portfolio/static/media/yoga.f06b03e05fed086824d7.png",
+    "static/media/jellyfish-g49dff187c_640.png": "/pie-portfolio/static/media/jellyfish-g49dff187c_640.edd92cf245f769d20ed8.png",
+    "static/media/hero.png": "/pie-portfolio/static/media/hero.9c8fad30eb788fdade2f.png",
+    "static/media/logo1.png": "/pie-portfolio/static/media/logo1.c5b730ea4cb9a77cf466.png",
+    "static/media/CentraNo2-Bold.ttf": "/pie-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/pie-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/pie-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/fantasy.jpg": "/pie-portfolio/static/media/fantasy.a637205587bd9d89b632.jpg",
+    "static/media/business.png": "/pie-portfolio/static/media/business.18843a320c1e82e784a7.png",
+    "static/media/revicons.eot": "/pie-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/pie-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/pie-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/pie-portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/pie-portfolio/index.html",
+    "static/media/nav-icon1.svg": "/pie-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/pie-portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.2e842186.css.map": "/pie-portfolio/static/css/main.2e842186.css.map",
+    "main.0cbaaaea.js.map": "/pie-portfolio/static/js/main.0cbaaaea.js.map",
+    "787.deaa2700.chunk.js.map": "/pie-portfolio/static/js/787.deaa2700.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e842186.css",
+    "static/js/main.0cbaaaea.js"
+  ]
+}
